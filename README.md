@@ -1,6 +1,8 @@
 # task-control
-Este projeto foi desenvolvido como parte de um curso da Udemy focado no aprendizado de Next.js e TypeScript para a criação de um sistema de controle de tarefas. O objetivo principal do projeto era fornecer aos alunos uma compreensão prática dessas tecnologias enquanto desenvolviam uma aplicação web funcional para gerenciamento de tarefas.
-
+[Pt-Br]<br>
+Este projeto foi desenvolvido como parte de um curso da Udemy focado no aprendizado de Next.js e TypeScript para a criação de um sistema de controle de tarefas. O objetivo principal do projeto era fornecer aos alunos uma compreensão prática dessas tecnologias enquanto desenvolviam uma aplicação web funcional para gerenciamento de tarefas.<br>
+[En]<br>
+This project was developed as part of a Udemy course focused on learning Next.js and TypeScript for the creation of a task management system. The main goal of the project was to provide students with a practical understanding of these technologies while they developed a functional web application for task management.<br>
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
